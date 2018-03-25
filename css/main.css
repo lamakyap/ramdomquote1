@@ -1,0 +1,49 @@
+body {
+	background-image: url("../img/quote-img.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	text-align: center;
+
+}
+
+h1 {
+	font-family: 'Raleway', sans-serif;
+	color: gold;
+	margin-top: 10%;
+}
+
+
+
+div{
+	border: 3px solid gold;
+	padding-top: 50px;
+	padding-right: 30px;
+	padding-bottom: 50px;
+	padding-left: 80px;
+	font-family: 'Raleway', sans-serif;
+	color:#00010c;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+button {
+	background-color: gold;
+	border:none;
+	padding: 15px 36px;
+	margin: 10px;
+	font-size: 16px;
+	cursor: pointer;
+
+}
+
+button :hover {
+	background-color: gold;
+	color: black;
+}
+
+
+
+
+
+
+
