@@ -14,6 +14,8 @@ var quotes2 = [
  	var randomNumber = Math.floor(Math.random() * quote_array);
  	return (randomNumber);
 }
+
+
 function randomQuotes(){
   	var result = quotes[newQuote(quotes.length)] + ' ' + quotes1[newQuote(quotes1.length)] + ' ' + quotes2[newQuote(quotes2.length)];
   	return(result);
